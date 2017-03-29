@@ -49,7 +49,7 @@ WolfGameLib
 </member>
 <member name="M:WolfGameLib.GameAI.GetRealPositionValue(WolfGameLib.Map)">
  <summary>
- 返回局面评估值
+ 返回位置评估值
  </summary>
 </member>
 <member name="T:WolfGameLib.GameOverEventArgs">
